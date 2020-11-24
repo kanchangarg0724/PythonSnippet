@@ -1,4 +1,4 @@
-# ================== One way of call decorators ============================= #
+# ================== One way of calling decorators ============================= #
 
 
 def decorate_message(fun):  # Decorator accepts a function as an argument
@@ -17,7 +17,7 @@ def display(text):
 
 print(str(display("Python")))
 
-# ================== Other way of call decorators ============================= #
+# ================== Other way of calling decorators ============================= #
 
 
 def decorate_function(fun):  # Decorator accepts a function as an argument
